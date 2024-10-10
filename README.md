@@ -13,3 +13,6 @@ This project currently includes an example code *run.py*, Realman robot can be d
  - *robotic_arm_package* is the package to drive a Realman robot.
  - All packages required for OpenVLA are also needed to run this project.
  - In the example code, namely *run.py*, an Intel RealSence camera is used. The directory named *camera* includes the package for driving it. There is no need to install any additional packages for the camera if you  are using a Intel RealSence camera.
+
+# How to collect own data
+TBD
